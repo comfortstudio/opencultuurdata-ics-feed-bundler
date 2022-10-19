@@ -1,0 +1,3746 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dead Darlings
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220704
+DTEND;VALUE=DATE:20220725
+DTSTAMP:20221019T153850Z
+UID:7siu852334igjmjtr17qqf4l12@google.com
+CREATED:20220523T141438Z
+DESCRIPTION:
+LAST-MODIFIED:20220523T141438Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Production
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220630
+DTEND;VALUE=DATE:20220704
+DTSTAMP:20221019T153850Z
+UID:6a90r9iuuftr49han3hq4p3461@google.com
+CREATED:20220523T141426Z
+DESCRIPTION:
+LAST-MODIFIED:20220523T141426Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Communication
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220627
+DTEND;VALUE=DATE:20220630
+DTSTAMP:20221019T153850Z
+UID:2tgq4uhf8kvafukevfaae1lvic@google.com
+CREATED:20220523T141246Z
+DESCRIPTION:
+LAST-MODIFIED:20220523T141403Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:DD #15 Selection
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220627
+DTSTAMP:20221019T153850Z
+UID:0jlq855886nk41k6ta0bk46r0c@google.com
+CREATED:20220523T141135Z
+DESCRIPTION:
+LAST-MODIFIED:20220523T141358Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DD #15 Open Call
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220729
+DTEND;VALUE=DATE:20220801
+DTSTAMP:20221019T153850Z
+UID:25cr5fp7pi4udf79m98mq2a84h@google.com
+CREATED:20220523T141053Z
+DESCRIPTION:
+LAST-MODIFIED:20220523T141053Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DD #15 Summer
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220407
+DTEND;VALUE=DATE:20220409
+DTSTAMP:20221019T153850Z
+UID:7bib7hv633clsoqag4eoo11c82@google.com
+CREATED:20220301T103700Z
+DESCRIPTION:
+LAST-MODIFIED:20220301T103700Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DD Setup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220406
+DTEND;VALUE=DATE:20220413
+DTSTAMP:20221019T153850Z
+UID:1b3aeuq2v8dvoq28dmbgnq00oq@google.com
+CREATED:20211028T173439Z
+DESCRIPTION:
+LAST-MODIFIED:20220301T094926Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Berlin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220409
+DTEND;VALUE=DATE:20220410
+DTSTAMP:20221019T153850Z
+UID:0f0v0u7c94svh0ti5gltlnliqq@google.com
+CREATED:20211028T173149Z
+DESCRIPTION:
+LAST-MODIFIED:20220301T094908Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:DD Berlin!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211201
+DTEND;VALUE=DATE:20211202
+DTSTAMP:20221019T153850Z
+UID:0l2n9vs473o93u87ogoglgdtri@google.com
+CREATED:20211028T173944Z
+DESCRIPTION:
+LAST-MODIFIED:20211028T173944Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Open Call OUT
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220110
+DTEND;VALUE=DATE:20220111
+DTSTAMP:20221019T153850Z
+UID:4s50ae5i9lmugk966blp2oav9m@google.com
+CREATED:20211028T173826Z
+DESCRIPTION:
+LAST-MODIFIED:20211028T173826Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Submission Deadline
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220114
+DTEND;VALUE=DATE:20220115
+DTSTAMP:20221019T153850Z
+UID:7hhjodbk744q4pc3871a230s9o@google.com
+CREATED:20211028T173718Z
+DESCRIPTION:
+LAST-MODIFIED:20211028T173806Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Announcement IN Works
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220117
+DTEND;VALUE=DATE:20220130
+DTSTAMP:20221019T153850Z
+UID:6st3d90pvu4u55ads4tcdss08t@google.com
+CREATED:20211028T173557Z
+DESCRIPTION:
+LAST-MODIFIED:20211028T173619Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Works Drop Off (Ams & Berlin)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220130
+DTEND;VALUE=DATE:20220131
+DTSTAMP:20221019T153850Z
+UID:7n9f3ielfl56k97cbruok9c3pt@google.com
+CREATED:20211028T173517Z
+DESCRIPTION:
+LAST-MODIFIED:20211028T173517Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Collection All Works
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200826
+DTEND;VALUE=DATE:20200831
+DTSTAMP:20221019T153850Z
+UID:701ejf1875ujv1mg1guv76g3ni@google.com
+CREATED:20200714T193514Z
+DESCRIPTION:
+LAST-MODIFIED:20200825T181456Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:The Show Must Go On - Dead Darlings x Rietveld Academie Online Fund
+raiser Auction
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220404T080000Z
+DTEND:20220404T090000Z
+DTSTAMP:20221019T153850Z
+UID:0A7DA220-70B9-4B32-B5B6-AD82E754875E
+CREATED:20220905T080105Z
+DESCRIPTION:
+LAST-MODIFIED:20220905T080105Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:VT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211129
+DTEND;VALUE=DATE:20211205
+DTSTAMP:20221019T153850Z
+UID:copm4pb66ooj8bb5cgojib9k6dh64bb165hmcb9m6hgj4oj360pmcdpnco@google.com
+CREATED:20210712T161102Z
+DESCRIPTION:
+LAST-MODIFIED:20211128T134245Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Build Down W139
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:C1B4F3DB-FFBC-4962-BCC8-C2045D7FC3A6
+UID:C1B4F3DB-FFBC-4962-BCC8-C2045D7FC3A6
+ATTACH;VALUE=URI:Basso
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20211128T134244Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211118
+DTEND;VALUE=DATE:20211119
+DTSTAMP:20221019T153850Z
+UID:c9imccb474om4b9m6hj36b9kcosjibb16ss30bb36krj4dr1ccrm4dj3c8@google.com
+CREATED:20211012T053807Z
+DESCRIPTION:
+LAST-MODIFIED:20211117T095155Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Deadline Deliverables
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:6AACCBBB-FC34-4105-80DB-0DC81FB64B19
+UID:6AACCBBB-FC34-4105-80DB-0DC81FB64B19
+ATTACH;VALUE=URI:Basso
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20211117T095155Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211122T093000Z
+DTEND:20211122T114500Z
+DTSTAMP:20221019T153850Z
+UID:61j3gd1g70p3ab9h6ssj6b9kc9h6cb9o6gs38b9j6hh38c1o74o66e1ock@google.com
+CREATED:20211012T053848Z
+DESCRIPTION:
+LAST-MODIFIED:20211012T053848Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Individual Presentations Unfair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20211011
+DTEND;VALUE=DATE:20211023
+DTSTAMP:20221019T153850Z
+UID:c9i62c356thm8bb2cpj3ib9k71hjgb9ocko38b9kcgrmadb6c8sjgdpk6k@google.com
+CREATED:20210712T161016Z
+DESCRIPTION:
+LAST-MODIFIED:20211011T083429Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Build Up W139
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:8A0055B1-B8D0-42C6-9B63-76013A1BB23B
+UID:8A0055B1-B8D0-42C6-9B63-76013A1BB23B
+ATTACH;VALUE=URI:Basso
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20211011T083429Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210724
+DTEND;VALUE=DATE:20210725
+DTSTAMP:20221019T153850Z
+UID:cko3eor270q3cb9nc8rm8b9k6kqmcb9o70s64bb6cop3icb1cdhjiohp64@google.com
+CREATED:20210712T201444Z
+DESCRIPTION:
+LAST-MODIFIED:20210723T070837Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Verjaardagsfeestje Niels Vis
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:F1D211AD-8BF5-4C55-9B25-CD0388F61B35
+UID:F1D211AD-8BF5-4C55-9B25-CD0388F61B35
+ATTACH;VALUE=URI:Basso
+X-APPLE-DEFAULT-ALARM:TRUE
+ACKNOWLEDGED:20210723T070836Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63501a0c33657
+DTSTAMP:20221019T153852
+DTSTART:20221022T190000
+DTEND:20221022T213000
+SUMMARY:Film vertoning: Indisch Zwijgen
+DESCRIPTION: View online: https://framerframed.nl/projecten/indisch-zwijgen/
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20210328T133901Z
+DTSTAMP:20210630T094532Z
+LAST-MODIFIED:20210630T094532Z
+SEQUENCE:4
+UID:3bf6196b-678b-42bd-b4ad-2abae71dcd2d
+DTSTART;VALUE=DATE:20210401
+DTEND;VALUE=DATE:20210501
+SUMMARY:Notes by eva susova
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20210129T090243Z
+DTSTAMP:20210630T094615Z
+LAST-MODIFIED:20210630T094615Z
+SEQUENCE:6
+UID:14eba514-57fb-4197-b95f-5f40cde4549c
+DTSTART;TZID=Europe/Amsterdam:20210201T170000
+DTEND;TZID=Europe/Amsterdam:20210228T120000
+SUMMARY:(G)HOSTING: TOWARDS A RECESSIONAL AESTHETICS by Mitchel Cumming
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220530T080750Z
+DTSTAMP:20220530T080859Z
+LAST-MODIFIED:20220530T080859Z
+SEQUENCE:3
+UID:2675480f-bc96-406f-a4c7-0ee187c3abe2
+DTSTART;TZID=Europe/Amsterdam:20220530T130000
+DTEND;TZID=Europe/Amsterdam:20220629T140000
+STATUS:CONFIRMED
+SUMMARY:Inflammations by Ania Nowak
+LOCATION:www.misted.cc
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20210223T090102Z
+DTSTAMP:20210630T094554Z
+LAST-MODIFIED:20210630T094554Z
+SEQUENCE:11
+UID:d25d0907-5e2a-4015-9cc2-885e202d9d11
+DTSTART;TZID=Europe/Amsterdam:20210301T100000
+DTEND;TZID=Europe/Amsterdam:20210331T120000
+SUMMARY:φάρμακον (pharmakon\, the poison and the cure) by Simon Ase
+ncio
+LOCATION:https://misted.cc
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20220505T132531Z
+DTSTAMP:20220505T133018Z
+LAST-MODIFIED:20220505T133018Z
+SEQUENCE:3
+UID:de0779f1-7aff-4d6b-bec7-bad6d7a6d6fc
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20220530
+STATUS:CONFIRMED
+SUMMARY:Some where we stay\, a collective bruise\, a team\, a time spent to
+gether\, a choreographic spell\, a prefatory charm\, a sensation that noth
+ing that comes out of my mouth\, fingers\, keyboard\, mother tongue\, lang
+uage\,  is mine  by Alix Eynaudi
+LOCATION:www.misted.cc
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20210630T094024Z
+DTSTAMP:20210630T094443Z
+LAST-MODIFIED:20210630T094443Z
+SEQUENCE:3
+UID:6870adbe-cc9f-41bd-9e93-4c28fa1da91e
+DTSTART;VALUE=DATE:20210701
+DTEND;VALUE=DATE:20210801
+SUMMARY:Words\, words\, words are decorative sounds by Giovanni Giaretta
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20210531T074141Z
+DTSTAMP:20210630T094517Z
+LAST-MODIFIED:20210630T094517Z
+SEQUENCE:3
+UID:72f1684d-2766-474a-950f-e6d708d449c1
+DTSTART;VALUE=DATE:20210501
+DTEND;VALUE=DATE:20210601
+SUMMARY:Animator Pt. 1 by Artun Alaska Arasli
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20210531T074247Z
+DTSTAMP:20210630T094501Z
+LAST-MODIFIED:20210630T094501Z
+SEQUENCE:3
+UID:ee1a2f52-8a98-4cc2-a046-cbcdb0c81004
+DTSTART;VALUE=DATE:20210601
+DTEND;VALUE=DATE:20210701
+SUMMARY:The Agent by Chloe Chignell\, Stefan Govaart & Alice Heyward
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211214T150000Z
+DTEND:20211214T160000Z
+DTSTAMP:20221019T153852Z
+UID:4und12qe3gjs2le1mfaad2aigg@google.com
+CREATED:20211214T110655Z
+DESCRIPTION:mistral amsterdam is inviting you to a scheduled Zoom meeting.\
+n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/88612646883?pwd=Q05KZUZmanN
+LTDJmSzBKcy84TDlGZz09\n\nMeeting ID: 886 1264 6883\nPasscode: AdTBZ9\nOne t
+ap mobile\n+13017158592\,\,88612646883#\,\,\,\,*675261# US (Washington DC)\
+n+13126266799\,\,88612646883#\,\,\,\,*675261# US (Chicago)\n\nDial by your
+location\n        +1 301 715 8592 US (Washington DC)\n        +1 312 626 67
+99 US (Chicago)\n        +1 929 205 6099 US (New York)\n        +1 253 215
+8782 US (Tacoma)\n        +1 346 248 7799 US (Houston)\n        +1 669 900
+6833 US (San Jose)\nMeeting ID: 886 1264 6883\nPasscode: 675261\nFind your
+local number: https://us02web.zoom.us/u/kdAVtAYnph\n\n
+LAST-MODIFIED:20211214T110655Z
+LOCATION:https://us02web.zoom.us/j/88612646883?pwd=Q05KZUZmanNLTDJmSzBKcy84
+TDlGZz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:mistral - meeting with marleen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210915T160000Z
+DTEND:20210915T170000Z
+DTSTAMP:20221019T153852Z
+UID:drutrkdd6i78ae2gettk08ke7o@google.com
+CREATED:20210915T152442Z
+DESCRIPTION:mistral amsterdam is inviting you to a scheduled Zoom meeting.\
+n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/86993289901?pwd=ekQzNFBwNzZ
+yQ0o4Ymd4eG5FSDNiZz09\n\nMeeting ID: 869 9328 9901\nPasscode: 782621\nOne t
+ap mobile\n+19292056099\,\,86993289901#\,\,\,\,*782621# US (New York)\n+130
+17158592\,\,86993289901#\,\,\,\,*782621# US (Washington DC)\n\nDial by your
+location\n        +1 929 205 6099 US (New York)\n        +1 301 715 8592 U
+S (Washington DC)\n        +1 312 626 6799 US (Chicago)\n        +1 669 900
+6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma)\n        +1 346 24
+8 7799 US (Houston)\nMeeting ID: 869 9328 9901\nPasscode: 782621\nFind your
+local number: https://us02web.zoom.us/u/kbM0Q4jD0V\n\n
+LAST-MODIFIED:20210915T152442Z
+LOCATION:https://us02web.zoom.us/j/86993289901?pwd=ekQzNFBwNzZyQ0o4Ymd4eG5F
+SDNiZz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:mistral amsterdam's Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210915T160000Z
+DTEND:20210915T180000Z
+DTSTAMP:20221019T153852Z
+UID:fj1tno1gikgr18ja95eiilo6b0@google.com
+CREATED:20210910T070156Z
+DESCRIPTION:mistral amsterdam is inviting you to a scheduled Zoom meeting.\
+n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/86845292947?pwd=YjdCcHpYakp
+nTlhSMWk0Rm9LczR3UT09\n\nMeeting ID: 868 4529 2947\nPasscode: 679663\nOne t
+ap mobile\n+19292056099\,\,86845292947#\,\,\,\,*679663# US (New York)\n+130
+17158592\,\,86845292947#\,\,\,\,*679663# US (Washington DC)\n\nDial by your
+location\n        +1 929 205 6099 US (New York)\n        +1 301 715 8592 U
+S (Washington DC)\n        +1 312 626 6799 US (Chicago)\n        +1 669 900
+6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma)\n        +1 346 24
+8 7799 US (Houston)\nMeeting ID: 868 4529 2947\nPasscode: 679663\nFind your
+local number: https://us02web.zoom.us/u/keyoOeAJZO\n\n
+LAST-MODIFIED:20210910T070156Z
+LOCATION:https://us02web.zoom.us/j/86845292947?pwd=YjdCcHpYakpnTlhSMWk0Rm9L
+czR3UT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:wednesday campfire w. iven\, radna\, ben\, matty & huib
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210904T150000Z
+DTEND:20210904T170000Z
+DTSTAMP:20221019T153852Z
+UID:ntfnemkp030g22c05bcfjm359o@google.com
+CREATED:20210903T130342Z
+DESCRIPTION:mistral amsterdam is inviting you to a scheduled Zoom meeting.\
+n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/85857612659?pwd=Tm9Nbnl0ZHI
+vdWtDV3U2dU9WcmF5UT09\n\nMeeting ID: 858 5761 2659\nPasscode: 639903\nOne t
+ap mobile\n+13126266799\,\,85857612659#\,\,\,\,*639903# US (Chicago)\n+1929
+2056099\,\,85857612659#\,\,\,\,*639903# US (New York)\n\nDial by your locat
+ion\n        +1 312 626 6799 US (Chicago)\n        +1 929 205 6099 US (New
+York)\n        +1 301 715 8592 US (Washington DC)\n        +1 346 248 7799
+US (Houston)\n        +1 669 900 6833 US (San Jose)\n        +1 253 215 878
+2 US (Tacoma)\nMeeting ID: 858 5761 2659\nPasscode: 639903\nFind your local
+number: https://us02web.zoom.us/u/knjj9rc2p\n\n
+LAST-MODIFIED:20210903T130342Z
+LOCATION:https://us02web.zoom.us/j/85857612659?pwd=Tm9Nbnl0ZHIvdWtDV3U2dU9W
+cmF5UT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:fluid collection(s) - everyday life of queerness
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200917T150000Z
+DTEND:20200917T180000Z
+DTSTAMP:20221019T153852Z
+UID:4g3qnfndu83dro4k1jgem7098v@google.com
+CREATED:20200817T194629Z
+DESCRIPTION:<span>During August and September\, we invite you for a series
+of summer hangouts: during these ‘soft openings’ everyone is welcome to the
+space\, to have a drink and some food together and mark these new beginnin
+gs. At each summer hangout\, there will be a dj set prepared by a selector
+who views playing music as a way of sharing references\, speaking through s
+ound\, and making connections of meaning. <i><br><br><span>*update* rsvp is
+necessary\, please read further info below.<br><br>Thursday 17 September (
+5-8PM)<br>Perpetual Finales\, by Urok Shirhan<br><br>“On the evening of the
+New Moon in Libra\, the sign of balance\, Urok Shirhan teams up with Radio
+Alhara resident dj’s Cascou and Youset\, in a collective effort comprising
+three different takes on the idea of ‘endings’ in music. Perpetual Finales
+offers a sonic contemplation on endings\, closures\, finales and\, perhaps
+\, anticlimaxes. A finale in and of itself\, it sonifies the third part in
+mistral’s summer hangouts\, and indeed\, the last week of summer 2020. <br>
+<br>This collective collection for mistral also marks the third part of a s
+eries of shows by Youset (Yousef Anastas\, Radio Alhara co-founder). The fi
+rst part was made up of sonic ‘beginnings’\, overtures and openings\, and t
+he second consisted of a selection sonifying ‘thresholds’ and other in-betw
+een states. Perpetual Finales traverses manifold interpretations of and ass
+ociations with the idea of a ‘finale’: as a conclusion\, a breaking point\,
+catharsis\, relief… or as unresolved\, gridlocked\, not ready to let go...
+<br><br>Perpetual Finales will be audible in a trio of locales: through Ra
+dio Alhara\, broadcasting live from Bethlehem\, Palestine\; through Ja Ja J
+a Nee Nee Nee\, broadcasting live from Amsterdam\; and on-site at mistral’s
+physical space.” <br><br>For those who’d like to come by this Thursday\, w
+e have decided that the system of working with reservations - although crud
+e and exclusive in a practical way - worked well to keep all of us as safe
+as possible\, and even generated an interesting sense of intimacy. For this
+reason\, we will continue to do so for this last hangout.<br><br>The (stil
+l informal) hangout will consist of 2 time slots:<br><br>1. 17.00 - 18.30<b
+r>2. 18.30 - 20.00<br><br>During both time slots drinks and a light meal wi
+ll be available (based on donation\, please bring cash). All proceeds of th
+is evening will be donated to Beirut's Musician Fund.<br><br> Please make a
+reservation by e-mail to info@mistral.amsterdam - mentioning ‘rsvp 17 sept
+’ and what time you prefer.<br><br> Capacity is limited\, but you can also
+listen from home or elsewhere to the live radio broadcast. A  recording wil
+l be shared afterwards at our website.<br><br>*In case you have any (mild)
+symptoms that could relate to covid-19\, or have travelled to a risk countr
+y in the last 14 days\, please stay home for now and we hope to welcome you
+again in the future.<br><br><a href="https://yamakan.place/palestine/?fbcl
+id=IwAR180V8RWTXWQnh--7DPYpZbcbNnSC0lP1lyQB2FWNUoRdfPetGuYkg-BH0">https://y
+amakan.place/palestine/</a><br><a href="https://l.facebook.com/l.php?u=http
+s%3A%2F%2Fjajajaneeneenee.com%2F%3Ffbclid%3DIwAR180V8RWTXWQnh--7DPYpZbcbNnS
+C0lP1lyQB2FWNUoRdfPetGuYkg-BH0&amp\;h=AT1bGJvVgUs_x4QSVDf6icSAsyQ9tJYNWNiok
+8azu_NARtt26FMJ3PUMMnSMZxCAtLVWE2iimqyK4BlOSvVhhj7oD8osMr7LDuSnz8tMQJcrTRaU
+Icob0M2oshi7DdQ9fjzNGwE">https://jajajaneeneenee.com/</a></span></i></span>
+LAST-MODIFIED:20200914T074338Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:summer hangouts w/ Urok Shirhan
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200904T150000Z
+DTEND:20200904T180000Z
+DTSTAMP:20221019T153852Z
+UID:03ado43v4omh3saoq6425kqq7r@google.com
+CREATED:20200817T194531Z
+DESCRIPTION:<span>During August and September\, we invite you for a series
+of summer hangouts: during these ‘soft openings’ everyone is welcome to the
+space\, to have a drink and some food together and mark these new beginnin
+gs. At each summer hangout\, there will be a dj set prepared by a selector
+who views playing music as a way of sharing references\, speaking through s
+ound\, and making connections of meaning. This edition is with Amal Alhaag\
+, her dj set will start at 6PM.<br><br><i>* &nbsp\; &nbsp\;Please be aware
+that because of Covid-19 our space can only host a small amount of people\,
+keeping a safe distance in mind. Doors will stay open\, there is also spac
+e available outside. <br>** &nbsp\; &nbsp\;If you like to support <span>mis
+tral</span> and our future program\, feel welcome to make a donation (pleas
+e bring cash). </i></span>
+LAST-MODIFIED:20200817T194613Z
+LOCATION:mistral\, Pakhuis Wilhelmina\, Veemkade 576\, Amsterdam
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:summer hangouts w/ Amal Alhaag
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200821T150000Z
+DTEND:20200821T180000Z
+DTSTAMP:20221019T153852Z
+UID:37tj9taum2tailmilsg84pj1qp@google.com
+CREATED:20200817T194317Z
+DESCRIPTION:<br>During August and September\, we invite you for a series of
+summer hangouts: during these ‘soft openings’ everyone is welcome to the s
+pace\, to have a drink and some food together and mark these new beginnings
+. At each summer hangout\, there will be a dj set prepared by a selector wh
+o views playing music as a way of sharing references\, speaking through sou
+nd\, and making connections of meaning. This edition is with Bardhi Haliti\
+, his dj set will start at 6PM.<br><br><i>* &nbsp\; &nbsp\;Please be aware
+that because of Covid-19 our space can only host a small amount of people\,
+keeping a safe distance in mind. Doors will stay open\, there is also spac
+e available outside. <br>** &nbsp\; &nbsp\;If you like to support <span>mis
+tral</span> and our future program\, feel welcome to make a donation (pleas
+e bring cash). </i>
+LAST-MODIFIED:20200817T194511Z
+LOCATION:mistral\, Pakhuis Wilhelmina\, Veemkade 576\, Amsterdam
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:summer hangouts w/ Bardhi Haliti
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221016T150000Z
+DTEND:20221016T170000Z
+DTSTAMP:20221019T153853Z
+UID:5lk10s3pjshhq99j2fni9nv7fv@google.com
+CREATED:20221009T111238Z
+DESCRIPTION:<p>17 hrs: bar open<br>17.15: reading of a commissioned text by
+Basje Boer<br>17.30: UNO\, a reaction on Kristina Sedlerova Villanen’s wor
+k in spatial sound by Lukas Rehm</p><p><i>How many zeros are reasonable in
+</i>future currency<i>\, until you melt down a few and move the one to righ
+t. Integer arrays&nbsp\;partially digested. The (likely scripted) conversat
+ion between the waiter and the guest goes: "Is that an UNO reverse card?" ”
+Yeah\, you gotta pay\,… you gotta pay the bill now!" "What are you doing? …
+"Oh\, shit! What? No!"</i></p><p><u><a href="https://www.lukasrehm.net/">L
+ukas Rehm</a></u> is an artist and musician working in the field of new and
+old timebased media\, performative and spatial installation art\, document
+ary and experimental fiction. His artistic works examine conditions and the
+theatrics of social structures\, the impact of technological and immateria
+l artefacts on psychology and the role of affect.</p><p>His work has been p
+resented at institutions such as the Kunsthalle Baden Baden\, Stuttgart Sta
+te Opera\, GAMMA Festival St. Petersburg\, Doclisboa Lisbon\, the Centre fo
+r Art and Media Karlsruhe and the Future Space New York. Rehm attended the
+Jan Van Eyck Academy\, the Academy for Theatre and Digitality Dortmund\, th
+e Karlsruhe University of Arts and Design\, and LMU Munich. He is part of t
+he SVS collective and releases music under the moniker lybes dimem.</p><p><
+u><a href="http://www.basjeboer.nl/">Basje Boer</a></u> is a writer and jou
+rnalist. She has published three books of fiction in Dutch\, including the
+novel <i>Nulversie</i> (Nijgh &amp\; Van Ditmar\, 2019). A collection of es
+says\, <i>Pose: Over hoe we kijken en wie we spelen&nbsp\;</i>(Nijgh &amp\;
+Van Ditmar)\, is expected this fall.&nbsp\;She writes about cinema and (po
+p)culture\, for <i>De Groene Amsterdammer </i>and <i>de Filmkrant</i>\, amo
+ng other publications.</p><p><u><a href="https://pakt.us6.list-manage.com/t
+rack/click?u=73672dd14a2eb3100237fb425&amp\;id=37006f031e&amp\;e=41a471ffa3
+"><i>Turning to Dust and Bones</i>&nbsp\;</a></u>(April 2022 – April 2023)
+is a series of six consecutive solo exhibitions loosely dealing with the su
+bconscious\, memory and the traces of being uprooted. It is featuring Ander
+s Dickson\, Koen Kloosterhuis\, Kristina Sedlerova-Villanen\, Aslan Goisum\
+, Giulia Cenci and Rodrigo Hernández.&nbsp\;<br>The public program is moder
+ated by&nbsp\;<a href="https://pakt.us6.list-manage.com/track/click?u=73672
+dd14a2eb3100237fb425&amp\;id=de983835bd&amp\;e=41a471ffa3"><u>DIG</u></a>&n
+bsp\;– the Internet Guide of literature magazine De Gids\, with editors Ash
+a Karami\, in charge of selecting contributors for additional texts and eve
+nts\, and Fabienne Rachmadiev\, who is closely following the program in ord
+er to write the central essay for the series.</p>
+LAST-MODIFIED:20221009T111238Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Closing event for Kristina Sedlerova Villanen – MAIN COURSE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220911T120000Z
+DTEND:20220911T160000Z
+DTSTAMP:20221019T153853Z
+UID:7n03btk948clpjdm5aol2k9i72@google.com
+CREATED:20220830T085150Z
+DESCRIPTION:► Kristina Sedlerova Villanen – MAIN COURSE  (Main space)<br>►
+Mutter – Janne Schimmel\, Modders and Poachers (P/////AKTPOOL)<br>► Charlot
+t Markus – Some Things Bleak (P/////AKTSALON)<br>The projects are on view u
+ntil 16 October 2022.<br>More info on&nbsp\;<a href="https://www.pakt.nu/?f
+bclid=IwAR0SdhcE1Y6dTY6Fb8smIWftm9QmF8oxFNQMQ_ekd0b3XsBLF5lPHlCHXo0">https:
+//www.pakt.nu/</a>
+LAST-MODIFIED:20220830T085201Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Kristina Sedlerova Villanen | Mutter | Charlott Markus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20220915T140000
+DTEND;TZID=Europe/Amsterdam:20220915T180000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20221016T215959Z;BYDAY=FR,SA,SU,TH
+DTSTAMP:20221019T153853Z
+UID:4b19bgohi25iliougtrd1g968g@google.com
+CREATED:20220830T085049Z
+DESCRIPTION:<br>► Kristina Sedlerova Villanen – MAIN COURSE  (Main space)<b
+r>► Mutter – Janne Schimmel\, Modders and Poachers (P/////AKTPOOL)<br>► Cha
+rlott Markus – Some Things Bleak (P/////AKTSALON)<br>The projects are on vi
+ew until 16 October 2022.<br>More info on&nbsp\;<a href="https://www.pakt.n
+u/?fbclid=IwAR0SdhcE1Y6dTY6Fb8smIWftm9QmF8oxFNQMQ_ekd0b3XsBLF5lPHlCHXo0">ht
+tps://www.pakt.nu/</a>
+LAST-MODIFIED:20220830T085049Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Kristina Sedlerova Villanen | Mutter | Charlott Markus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220910T180000Z
+DTEND:20220910T220000Z
+DTSTAMP:20221019T153853Z
+UID:5dfhra9hk3eem4h0ugdun0j9n9@google.com
+CREATED:20220830T084610Z
+DESCRIPTION:P/////AKT proudly invites you to the opening of the following e
+xhibitions and presentations on Saturday 10 September\, 20 – 24 hrs:<br>► K
+ristina Sedlerova Villanen – MAIN COURSE &nbsp\;(Main space)<br>► Mutter –
+Janne Schimmel\, Modders and Poachers (P/////AKTPOOL)<br>► Charlott Markus
+– Some Things Bleak (P/////AKTSALON)<br>The projects are on view until 16 O
+ctober 2022.<br>More info on&nbsp\;<a href="https://www.pakt.nu/?fbclid=IwA
+R0SdhcE1Y6dTY6Fb8smIWftm9QmF8oxFNQMQ_ekd0b3XsBLF5lPHlCHXo0">https://www.pak
+t.nu/</a>
+LAST-MODIFIED:20220830T084610Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening: Kristina Sedlerova Villanen | Mutter | Charlott Markus
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220731T150000Z
+DTEND:20220731T170000Z
+DTSTAMP:20221019T153853Z
+UID:543vp8mj1rnuvg8jqm2d8ah0gf@google.com
+CREATED:20220726T074737Z
+DESCRIPTION:<html-blob><p><b>Closing event for Koen Kloosterhuis – Spaghett
+i Rain </b><br><b>Turning to Dust and Bones\, part 2</b><br><b>Sunday 31 Ju
+ly\, 17 -19 hrs</b><br><br>Bar open: 17 hrs<br>Commissioned text by Çağlar
+Köseoğlu<br>Performance by Mica Pan at 17.30 hrs</p><p>More info here:<b>&n
+bsp\;</b><a href="https://www.pakt.nu/2022/closing-event-commissioned-text-
+by-caglar-koseoglu%E2%80%A8-and-performance-by-mica-pa/">https://www.pakt.n
+u/2022/closing-event-commissioned-text-by-caglar-koseoglu%E2%80%A8-and-perf
+ormance-by-mica-pa/</a></p></html-blob>
+LAST-MODIFIED:20220726T074748Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Closing event for Koen Kloosterhuis – Spaghetti Rain
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20220626T140000
+DTEND;TZID=Europe/Amsterdam:20220626T180000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20220731T215959Z;BYDAY=FR,SA,SU,TH
+DTSTAMP:20221019T153853Z
+UID:2ul26m5duld1uk13imuqgvavs7@google.com
+CREATED:20220613T073908Z
+DESCRIPTION:► Koen Kloosterhuis – <i>Spaghetti Rain</i> (Main space)&nbsp\;
+<br>► Tilde ~ <i>1934</i> (P/////AKTSALON)&nbsp\;<br>► Raphael Langmair – <
+i>Again (Monochrome)</i> (P/////AKTSALON)&nbsp\;<br>Thu – Sun\, 14:00 – 18:
+00
+LAST-MODIFIED:20220613T073908Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Koen Kloosterhuis / Tilde / Raphael Langmair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220625T180000Z
+DTEND:20220625T220000Z
+DTSTAMP:20221019T153853Z
+UID:4hfel9ae5u16obppm9j9pm4e1a@google.com
+CREATED:20220613T073507Z
+DESCRIPTION:<html-blob>P/////AKT proudly invites you to the opening of the
+following exhibition and presentation on Saturday 25 June from 20:00-24:00:
+&nbsp\;<br>► Koen Kloosterhuis – <i>Spaghetti Rain</i> (Main space)&nbsp\;<
+br>► Tilde ~ <i>1934</i> (P/////AKTSALON)&nbsp\;<br>► Raphael Langmair – <i
+>Again (Monochrome)</i> (P/////AKTSALON)&nbsp\;<br>The projects are on view
+until 31 July 2022.</html-blob>
+LAST-MODIFIED:20220613T073545Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening: Koen Kloosterhuis | Tilde | Raphael Langmair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220529T150000Z
+DTEND:20220529T170000Z
+DTSTAMP:20221019T153853Z
+UID:4nqcde0t2e91rpm2bg5u8bvi14@google.com
+CREATED:20220522T160053Z
+DESCRIPTION:Bar open: 17.00 hrs<br>Reading and performance: 17.30 hrs<br><b
+><br></b><br><b>Performance: Nadh Lingyun Cao – a Vortex\, a VormVole</b><b
+r><p><em><i>Each id-entity is idiosyncratic\, visible or invisible\, materi
+al or immaterial\, audible or inaudible\, as well as those queered.<br></i>
+</em><em><i>The concurrent urge for evanescence and emergence\, id est\, th
+e common.</i></em><br><em><i>Worlds that otherworldly.&nbsp\;</i></em><br><
+em><i>A peripheral language that to be felt.</i></em><br><em><i>Soma\, liqu
+efy\, solidify\, morphous.&nbsp\;</i></em><br><em><i>Space contains\, opens
+\, the inexplicable.</i></em><br><em><i>Be that strange tissue into the vib
+ratory volume.</i></em><br><em><i>Omnipresence is neither an optical illusi
+on nor a fiction\,&nbsp\;</i></em><br><em><i>it is the actuality of the rea
+l and the whole.</i></em></p><em><i></i></em><p><em><i></i></em>Nadh Lingyu
+n Cao’s performative practice explores myth\, magic\, spirituality and heal
+ing. Their curiosity for the vastness of the space is the impetus in the ma
+king\, often feeling the volume of their work is guided by some mysterious
+forces\, unconscious for the cerebral. Their performance is heavily influen
+ced by Buddhist and Taoist philosophy\, such as the concept of impermanence
+\, the practice of non-self\, non-attachment\, wu wei\, zi ran and qi etc.<
+br>Nadh originally comes from China\, currently lives and works in Amsterda
+m\, the Netherlands. Retrospectively\, they received BFA degrees from Gerri
+t Rietveld Academy and Shanghai Theatre Academy.</p><p><b>Reading: Hannah C
+hris Lomans</b></p><p>Hannah Chris Lomans is a writer. They studied Creativ
+e Writing at ArtEZ and participated in the Slow Writing Lab\, an open maste
+r’s degree program organised by the Nederlands Letterenfonds (Dutch Foundat
+ion for Literature). For Hannah Chris\, whose writing departs from both a l
+onging for and belief in transformation\, text is a place that allows them
+to embody a radical\, yet precarious fluidity. In 2020 they attended the Pa
+ris writers residency of deBuren\, the Flamish-Dutch House for culture and
+debate and published the chapbook Blijf de kou wegstrijken at Wintertuin Pu
+blishers. Their texts appeared i.e. in magazine for literature De Gids and
+NRC Handelsblad and on platform such as Brainwash Festival\, Wintertuinfest
+ival\, Nieuwe Types\, Perdu and Frontaal. Currently they are working on the
+ir debut novel which will be published by De Bezige Bij.</p>
+LAST-MODIFIED:20220522T160053Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Performance by Nadh Lingyun Cao and reading by Hannah Chris Lomans
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210514T120000Z
+DTEND:20210514T160000Z
+DTSTAMP:20221019T153853Z
+UID:B5CB7E18-C695-4155-B68A-352DF3E98C8D
+CREATED:20210308T110610Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155636Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210521T120000Z
+DTEND:20210521T160000Z
+DTSTAMP:20221019T153853Z
+UID:B20186AE-3F19-435C-91DA-99A197C4C3FE
+CREATED:20210308T110613Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155633Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210613T120000Z
+DTEND:20210613T160000Z
+DTSTAMP:20221019T153853Z
+UID:9C3A8488-EE33-49ED-98F3-C51225DA88D1
+CREATED:20210308T110624Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155631Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210516T120000Z
+DTEND:20210516T160000Z
+DTSTAMP:20221019T153853Z
+UID:7DEA4FE3-575E-4351-9516-3152F8270FFC
+CREATED:20210308T110611Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155628Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210520T120000Z
+DTEND:20210520T160000Z
+DTSTAMP:20221019T153853Z
+UID:91045D72-A5A2-4192-A002-7325F54CF711
+CREATED:20210308T110613Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155625Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210606T120000Z
+DTEND:20210606T160000Z
+DTSTAMP:20221019T153853Z
+UID:92E9C98E-5767-4E29-854E-C9C1F94EAD07
+CREATED:20210308T110623Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155623Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210603T120000Z
+DTEND:20210603T160000Z
+DTSTAMP:20221019T153853Z
+UID:CA85D105-43F1-476B-88D8-5DAD452D6D2B
+CREATED:20210308T110621Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155622Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210605T120000Z
+DTEND:20210605T160000Z
+DTSTAMP:20221019T153853Z
+UID:C1E5F31A-B3A0-4E8A-B802-BFFE07038877
+CREATED:20210308T110623Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155620Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210612T120000Z
+DTEND:20210612T160000Z
+DTSTAMP:20221019T153853Z
+UID:27073D5B-ECAC-40D8-8492-EF1E73B7CC59
+CREATED:20210308T110625Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155618Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210515T120000Z
+DTEND:20210515T160000Z
+DTSTAMP:20221019T153853Z
+UID:3D782887-A5EA-49C0-864D-2A57BE5BEDEC
+CREATED:20210308T110611Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155616Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210530T120000Z
+DTEND:20210530T160000Z
+DTSTAMP:20221019T153853Z
+UID:50B6EAFD-54B9-49E3-A17E-0224A608C78F
+CREATED:20210308T110619Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155614Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210527T120000Z
+DTEND:20210527T160000Z
+DTSTAMP:20221019T153853Z
+UID:6F98B4B4-8466-4D60-955E-F5CA1672C0BF
+CREATED:20210308T110617Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155611Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210611T120000Z
+DTEND:20210611T160000Z
+DTSTAMP:20221019T153853Z
+UID:36C05A1D-9AC6-45D8-89D4-1D6B42E488CE
+CREATED:20210308T110626Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155608Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210523T120000Z
+DTEND:20210523T160000Z
+DTSTAMP:20221019T153853Z
+UID:EBD27C6E-2B48-4C3F-96E1-48A0ABB41868
+CREATED:20210308T110615Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155606Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210513T120000Z
+DTEND:20210513T160000Z
+DTSTAMP:20221019T153853Z
+UID:BCF94A6B-15A1-473A-BDEA-A4C278CC3946
+CREATED:20210308T110609Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155604Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210528T120000Z
+DTEND:20210528T160000Z
+DTSTAMP:20221019T153853Z
+UID:44A0DBA9-1866-4945-804E-301DE8BDFAD3
+CREATED:20210308T110618Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155601Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210610T120000Z
+DTEND:20210610T160000Z
+DTSTAMP:20221019T153853Z
+UID:FED6794C-14AF-43EB-B1FF-662137502D20
+CREATED:20210308T110626Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155559Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210529T120000Z
+DTEND:20210529T160000Z
+DTSTAMP:20221019T153853Z
+UID:467357B5-BF8C-4980-8386-80D8D8F50584
+CREATED:20210308T110619Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155557Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210604T120000Z
+DTEND:20210604T160000Z
+DTSTAMP:20221019T153853Z
+UID:39A14373-AAB4-47FA-B69B-F4D274D2B850
+CREATED:20210308T110622Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155555Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210522T120000Z
+DTEND:20210522T160000Z
+DTSTAMP:20221019T153853Z
+UID:6C02C476-A008-4DC7-83D6-5C2A5A90589E
+CREATED:20210308T110614Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20220513T155552Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220515T150000Z
+DTEND:20220515T170000Z
+DTSTAMP:20221019T153853Z
+UID:0vg955pvvjs5v23ep3nghtcqnh@google.com
+CREATED:20220509T114440Z
+DESCRIPTION:<p><strong>Root Canal –&nbsp\;<em>I’ll Never Be a Star\, I’ve A
+lways Been the Moon&nbsp\;</em><br>Mixtape launch and bingo</strong><br><br
+>Live performance by echo + seashell<br>Sunday 15 May\, 17 – 19&nbsp\;hrs<b
+r>Bar open from 17 hrs\, start performance at 17:15 hrs</p><p><a href="http
+://echoseashell.com/" id="ow1360" __is_owner="true"><u><u>echo + seashell</
+u></u></a>&nbsp\;are artists Henna Hyvarinen (Finland) and Susan Kooi (Neth
+erlands). Their collaboration consists out of live music performances\, vid
+eos and exhibitions. The music is often produced in collaboration with diff
+erent musicians\, resulting in variations in both style and genre. The lyri
+cs and way of speaking form the core\, the 'baby soul' of echo + seashell.<
+/p><p>echo + seashell have performed amongst others at Paradiso\, de Appel
+Arts Centre\, de Ateliers\, OT301 and for Girls Like Us at Butchers Tears i
+n Amsterdam\, 1646 in the Hague\, showroom MAMA and Worm in Rotterdam\, Flu
+tgraben in Berlin\, Sorbus and Bombshelter in Helsinki\, UP STATE in Zurich
+\, the Others in Turin\, the Antagon Festival and Tehdas Theater in Turku\,
+Fokidos in Athens\, the Legion in Calgary\, the Banff Centre in Banff and
+Selectors in Vancouver.<br>&nbsp\;</p><p>Fourteen artists\, musicians and w
+riters were invited to contribute to the mix tape&nbsp\;<em>I’ll Never be a
+Star I’ve Always Been the Moon</em>\, initiated by the artist collective<a
+href="https://www.rootcanal.eu/"><u><u>&nbsp\;Root Canal</u></u></a>. As a
+constructive answer to the difficulties of organizing physical exhibitions
+in the past year\, the mix tape is recorded on classic tape cassettes\, wh
+ich are sent out to potential listeners and bring a group exhibition to the
+ir homes. Every contributor received carte blanche for the content of their
+recording\, with the sole restriction that it could not be longer than 5 m
+inutes. The resulting mix tape – an eclectic amalgam of contributions rangi
+ng from spoken word to noise poetry to dream interpretations\, alternated a
+mong others with Finnish rap\, garage punk and cover songs – will be presen
+ted in the P/////AKTSALON for the duration of the Art Weekend. Read more&nb
+sp\;<a href="https://www.pakt.nu/2022/root-canal-ill-never-be-a-star-ive-al
+ways-been-the-moon/"><u><u>here</u></u></a>.</p>
+LAST-MODIFIED:20220509T114440Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Performance and Drinks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220513T150000Z
+DTEND:20220513T170000Z
+DTSTAMP:20221019T153853Z
+UID:1rhlsk5fr9qi1k5haoeq71vgsa@google.com
+CREATED:20220509T114317Z
+DESCRIPTION:Anders Dickson’s multifaceted practice invites intimate encount
+ers with an obscure\, weird mirror of the ubiquitous world.&nbsp\; Themes r
+anging from spirituality\, memory\, and ‘high strangeness’ are coloured by
+traces of Americana as the artist implements them into his work.&nbsp\; Hal
+lucinatory paintings bleed into space in the form of sculptural objects\, p
+hotography and video\, assembled in immersive installations.<br>At P/////AK
+T Dickson is presenting an immersive installation consisting of new works.
+The projects marks the first episode of&nbsp\;<em>Turning to Dust and Bones
+</em>.
+LAST-MODIFIED:20220509T114317Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening Drinks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220423T180000Z
+DTEND:20220423T220000Z
+DTSTAMP:20221019T153853Z
+UID:2qsgv95noa014he0t5aq727lsp@google.com
+CREATED:20220414T170946Z
+DESCRIPTION:\nP/////AKT proudly invites you to the opening of the following
+exhibition and presentation on Saturday 23 April from 20:00-24:00:\n► Ande
+rs Dickson\, Powercells\, the commons (Main space)\n► Root Canal – I’ll Nev
+er be a Star\, I’ve Always Been the Moon (P/////AKTSALON)\nThe projects are
+on view until 29 May 2022.
+LAST-MODIFIED:20220414T170946Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220529T120000Z
+DTEND:20220529T160000Z
+DTSTAMP:20221019T153853Z
+UID:4urn4i30efjq2hhd7nhgdb2g4c@google.com
+CREATED:20220414T170825Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170825Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220528T120000Z
+DTEND:20220528T160000Z
+DTSTAMP:20221019T153853Z
+UID:7s9b1vcar0fj818elnomcoldhq@google.com
+CREATED:20220414T170817Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170817Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220527T120000Z
+DTEND:20220527T160000Z
+DTSTAMP:20221019T153853Z
+UID:116nrp0qiigravbgc75cqks139@google.com
+CREATED:20220414T170810Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170810Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220526T120000Z
+DTEND:20220526T160000Z
+DTSTAMP:20221019T153853Z
+UID:2crciahing2lj35nmh6vdsicb1@google.com
+CREATED:20220414T170803Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170803Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220522T120000Z
+DTEND:20220522T160000Z
+DTSTAMP:20221019T153853Z
+UID:07a96mfb7dp087inn7reeagh9o@google.com
+CREATED:20220414T170753Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170753Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220521T120000Z
+DTEND:20220521T160000Z
+DTSTAMP:20221019T153853Z
+UID:4bgor1vfutkjkb56sv5h4lj97p@google.com
+CREATED:20220414T170746Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170746Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220520T120000Z
+DTEND:20220520T160000Z
+DTSTAMP:20221019T153853Z
+UID:36uh238tpj1hlgmvifvtljtiv9@google.com
+CREATED:20220414T170738Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170738Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220519T120000Z
+DTEND:20220519T160000Z
+DTSTAMP:20221019T153853Z
+UID:1jmekj3021c7voa8mi48lqqbg3@google.com
+CREATED:20220414T170731Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170731Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220515T120000Z
+DTEND:20220515T160000Z
+DTSTAMP:20221019T153853Z
+UID:77mddao48boisd1un409mit39h@google.com
+CREATED:20220414T170722Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170722Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220514T120000Z
+DTEND:20220514T160000Z
+DTSTAMP:20221019T153853Z
+UID:41joct1entrum86n489pj0uhfe@google.com
+CREATED:20220414T170715Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170715Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220513T120000Z
+DTEND:20220513T160000Z
+DTSTAMP:20221019T153853Z
+UID:6b9naaahvmp85t8oe58v4le5mm@google.com
+CREATED:20220414T170708Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170708Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220512T120000Z
+DTEND:20220512T160000Z
+DTSTAMP:20221019T153853Z
+UID:6t9bl4u3b7hgl0dkm1jfha9efg@google.com
+CREATED:20220414T170659Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170659Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220508T120000Z
+DTEND:20220508T160000Z
+DTSTAMP:20221019T153853Z
+UID:0ajeo79bf2hcp8lkpcokvkhcf5@google.com
+CREATED:20220414T170634Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170634Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220507T120000Z
+DTEND:20220507T160000Z
+DTSTAMP:20221019T153853Z
+UID:631bjuo9lflqcdrbsgcn1i0ee5@google.com
+CREATED:20220414T170626Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170626Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220506T120000Z
+DTEND:20220506T160000Z
+DTSTAMP:20221019T153853Z
+UID:7vbe7e0ucjp61b490ugkr92p9m@google.com
+CREATED:20220414T170618Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170618Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220505T120000Z
+DTEND:20220505T160000Z
+DTSTAMP:20221019T153853Z
+UID:3lflcc1p06q9om70abgipfv531@google.com
+CREATED:20220414T170609Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170609Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220501T120000Z
+DTEND:20220501T160000Z
+DTSTAMP:20221019T153853Z
+UID:0d32n95nbo8mk224oq73aigo3u@google.com
+CREATED:20220414T170555Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170555Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220430T120000Z
+DTEND:20220430T160000Z
+DTSTAMP:20221019T153853Z
+UID:1rmuev9jf1bmq5crms29jgrq71@google.com
+CREATED:20220414T170541Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170541Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220429T120000Z
+DTEND:20220429T160000Z
+DTSTAMP:20221019T153853Z
+UID:5t9vkou2tmkii28lg1q8t6gq5j@google.com
+CREATED:20220414T170530Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T170530Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220428T120000Z
+DTEND:20220428T160000Z
+DTSTAMP:20221019T153853Z
+UID:5i1ndr8fpa33r47ksn71m08i3m@google.com
+CREATED:20220414T164034Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T164034Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220424T120000Z
+DTEND:20220424T160000Z
+DTSTAMP:20221019T153853Z
+UID:1r47j4teaorhic2sufmmbsmuut@google.com
+CREATED:20220414T162634Z
+DESCRIPTION:\n► Anders Dickson\, Powercells\, the commons (Main space)\n► R
+oot Canal – I’ll Never be a Star\, I’ve Always Been the Moon (P/////AKTSALO
+N)\nThu–Fri 14:00–18:00
+LAST-MODIFIED:20220414T162645Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibition Anders Dickson
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220327T120000Z
+DTEND:20220327T160000Z
+DTSTAMP:20221019T153853Z
+UID:378hlamm5ah142mmd29celq4u3@google.com
+CREATED:20220208T141732Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141732Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220326T130000Z
+DTEND:20220326T170000Z
+DTSTAMP:20221019T153853Z
+UID:3bte505j7jtmticdrhcpr1ocoi@google.com
+CREATED:20220208T141724Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141724Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220325T130000Z
+DTEND:20220325T170000Z
+DTSTAMP:20221019T153853Z
+UID:1duuosc6v5vg5du5bjr02ijf94@google.com
+CREATED:20220208T141717Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141717Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220324T130000Z
+DTEND:20220324T170000Z
+DTSTAMP:20221019T153853Z
+UID:33c0atju8jfdtpkpa0tqc8kana@google.com
+CREATED:20220208T141710Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141710Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220320T130000Z
+DTEND:20220320T170000Z
+DTSTAMP:20221019T153853Z
+UID:399qg089hfvfvk3sj3u90eh8lh@google.com
+CREATED:20220208T141700Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141700Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220319T130000Z
+DTEND:20220319T170000Z
+DTSTAMP:20221019T153853Z
+UID:5kbpua9a1sbkr19367dnf22c1c@google.com
+CREATED:20220208T141653Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141653Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220318T130000Z
+DTEND:20220318T170000Z
+DTSTAMP:20221019T153853Z
+UID:2stopgdbhlh2f9gouhff8vgm0p@google.com
+CREATED:20220208T141645Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141645Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220317T130000Z
+DTEND:20220317T170000Z
+DTSTAMP:20221019T153853Z
+UID:3b5dmc0j9j6oclfmhhigc36g1r@google.com
+CREATED:20220208T141638Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141638Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220312T130000Z
+DTEND:20220312T170000Z
+DTSTAMP:20221019T153853Z
+UID:0blo9a0jducq7ibm6gd6h722sq@google.com
+CREATED:20220208T141627Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141627Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220313T130000Z
+DTEND:20220313T170000Z
+DTSTAMP:20221019T153853Z
+UID:3vvevp5r4smdgbcv9g4cqufb3g@google.com
+CREATED:20220208T141607Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141616Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220311T130000Z
+DTEND:20220311T170000Z
+DTSTAMP:20221019T153853Z
+UID:1qv9kfcgmleoen0dv3eg5lngts@google.com
+CREATED:20220208T141600Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141600Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220310T130000Z
+DTEND:20220310T170000Z
+DTSTAMP:20221019T153853Z
+UID:3adv5nt5jqg44jdscsrtchk7fr@google.com
+CREATED:20220208T141549Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141549Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220306T130000Z
+DTEND:20220306T170000Z
+DTSTAMP:20221019T153853Z
+UID:0ddra3ksuiskgf1vrsnnv16235@google.com
+CREATED:20220208T141537Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141537Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220305T130000Z
+DTEND:20220305T170000Z
+DTSTAMP:20221019T153853Z
+UID:4pq8g8u5cunqd62aao4q49fsc6@google.com
+CREATED:20220208T141527Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141527Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220304T130000Z
+DTEND:20220304T170000Z
+DTSTAMP:20221019T153853Z
+UID:5im99f590g5trgf7j5g8skrs0b@google.com
+CREATED:20220208T141516Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141516Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220303T130000Z
+DTEND:20220303T170000Z
+DTSTAMP:20221019T153853Z
+UID:34lg7i9um89mqugtrd59eb0tqc@google.com
+CREATED:20220208T141509Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141509Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220227T130000Z
+DTEND:20220227T170000Z
+DTSTAMP:20221019T153853Z
+UID:1moldd2j2oc8kvabs80s9lcfid@google.com
+CREATED:20220208T141450Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141450Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220226T130000Z
+DTEND:20220226T170000Z
+DTSTAMP:20221019T153853Z
+UID:5j1pglli7dja4u6mb1j53pth6u@google.com
+CREATED:20220208T141443Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141443Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220225T130000Z
+DTEND:20220225T170000Z
+DTSTAMP:20221019T153853Z
+UID:1b6b2131hrtqv9k1e312etmce9@google.com
+CREATED:20220208T141420Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141420Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220224T130000Z
+DTEND:20220224T170000Z
+DTSTAMP:20221019T153853Z
+UID:0rrj3mfmmiv8l45o7gl7pneghr@google.com
+CREATED:20220208T141358Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141358Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220220T130000Z
+DTEND:20220220T170000Z
+DTSTAMP:20221019T153853Z
+UID:1be635rjk6h58nfbda427qit54@google.com
+CREATED:20220208T115446Z
+DESCRIPTION:<p>► Suchan Kinoshita\, Architektonische Psychodramen (Main spa
+ce)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears are Made of G
+olden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - Sixteen Convers
+ations on Abstraction: Tool One (Template Ruler 1-5) (P/////AKTSALON)</p>Th
+u-Fri 14-18hrs
+LAST-MODIFIED:20220208T141308Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Suchan Kinoshita / Tessa Langeveld / Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220219T160000Z
+DTEND:20220219T190000Z
+DTSTAMP:20221019T153853Z
+UID:2h50tb8pcmpgd6m8nc8lbiqcg4@google.com
+CREATED:20220207T192549Z
+DESCRIPTION:<p>P/////AKT proudly invites you\, on Saturday 19 February betw
+een 17:00-20:00\, to the opening of the following exhibitions and presentat
+ions at the space:<br></p><p>► Suchan Kinoshita\, Architektonische Psychodr
+amen (Main space)</p><p>► Tessa Langeveld\, Thoughts of a Being Whose Tears
+are Made of Golden Meta\, part 3/3 (P/////AKTPOOL)</p><p>► Riet Wijnen - S
+ixteen Conversations on Abstraction: Tool One (Template Ruler 1-5) (P/////A
+KTSALON)</p><p>The projects are on view until 27 March 2022.</p>
+LAST-MODIFIED:20220207T192549Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening: Suchan Kinoshita | Tessa Langeveld | Riet Wijnen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211219T130000Z
+DTEND:20211219T170000Z
+DTSTAMP:20221019T153853Z
+UID:553C5CC6-284A-4D9C-9E23-E3FEF12B2994
+URL:www.pakt.nu
+CREATED:20211027T152015Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T152015Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211218T130000Z
+DTEND:20211218T170000Z
+DTSTAMP:20221019T153853Z
+UID:0E9BF199-DC0E-4ED5-A58F-68D7DD076250
+URL:www.pakt.nu
+CREATED:20211027T152014Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T152014Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211217T130000Z
+DTEND:20211217T170000Z
+DTSTAMP:20221019T153853Z
+UID:3AD6469E-0354-44CF-85AF-D8DB8D6E5378
+URL:www.pakt.nu
+CREATED:20211027T152014Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T152014Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211216T130000Z
+DTEND:20211216T170000Z
+DTSTAMP:20221019T153853Z
+UID:127BC99E-79EC-4180-8AD9-B3A55657B85C
+URL:www.pakt.nu
+CREATED:20211027T152013Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T152013Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211212T130000Z
+DTEND:20211212T170000Z
+DTSTAMP:20221019T153853Z
+UID:E2AB7C2A-07CE-4A35-A857-70B272ABA69C
+URL:www.pakt.nu
+CREATED:20211027T152012Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T152012Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211211T130000Z
+DTEND:20211211T170000Z
+DTSTAMP:20221019T153853Z
+UID:F2E59781-F015-485D-B9AB-0D48D8F89134
+URL:www.pakt.nu
+CREATED:20211027T152011Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T152011Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211210T130000Z
+DTEND:20211210T170000Z
+DTSTAMP:20221019T153853Z
+UID:D95E4484-5C59-482E-863D-5F76929E6FB4
+URL:www.pakt.nu
+CREATED:20211027T152011Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T152011Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211209T130000Z
+DTEND:20211209T170000Z
+DTSTAMP:20221019T153853Z
+UID:99F69C3E-D2D0-4387-B248-2BD64411ECA7
+URL:www.pakt.nu
+CREATED:20211027T152010Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T152010Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211205T130000Z
+DTEND:20211205T170000Z
+DTSTAMP:20221019T153853Z
+UID:7C1AD788-FDA4-49BB-80B4-DBA1677F6AB8
+URL:www.pakt.nu
+CREATED:20211027T151957Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151957Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211204T130000Z
+DTEND:20211204T170000Z
+DTSTAMP:20221019T153853Z
+UID:BB513797-9A46-48E8-8A57-188EA547D77A
+URL:www.pakt.nu
+CREATED:20211027T151956Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151956Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211203T130000Z
+DTEND:20211203T170000Z
+DTSTAMP:20221019T153853Z
+UID:BF7AC011-4F4E-48C5-BBC5-CD8AA0B82EC5
+URL:www.pakt.nu
+CREATED:20211027T151955Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151955Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211202T130000Z
+DTEND:20211202T170000Z
+DTSTAMP:20221019T153853Z
+UID:BA96695D-1561-44EF-9445-66E58A0C7086
+URL:www.pakt.nu
+CREATED:20211027T151955Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151955Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211128T130000Z
+DTEND:20211128T170000Z
+DTSTAMP:20221019T153853Z
+UID:0637D450-A60F-4BD9-B0E5-6683DF811B62
+URL:www.pakt.nu
+CREATED:20211027T151954Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151954Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211127T130000Z
+DTEND:20211127T170000Z
+DTSTAMP:20221019T153853Z
+UID:1359FA1E-B770-40ED-9C1F-234D9F983256
+URL:www.pakt.nu
+CREATED:20211027T151953Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151953Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211126T130000Z
+DTEND:20211126T170000Z
+DTSTAMP:20221019T153853Z
+UID:DE6B7C06-6539-4811-A569-1E1072B3D9B3
+URL:www.pakt.nu
+CREATED:20211027T151952Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151952Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211125T130000Z
+DTEND:20211125T170000Z
+DTSTAMP:20221019T153853Z
+UID:4091E4BB-6495-46BC-BCC6-64019C89F1DE
+URL:www.pakt.nu
+CREATED:20211027T151952Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151952Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211121T130000Z
+DTEND:20211121T170000Z
+DTSTAMP:20221019T153853Z
+UID:4120453E-3645-418E-B583-0607EE189956
+URL:www.pakt.nu
+CREATED:20211027T151950Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151950Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211120T130000Z
+DTEND:20211120T170000Z
+DTSTAMP:20221019T153853Z
+UID:F0403A0B-43F6-4898-98C6-44BEF24B6E73
+URL:www.pakt.nu
+CREATED:20211027T151950Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151950Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211119T130000Z
+DTEND:20211119T170000Z
+DTSTAMP:20221019T153853Z
+UID:F32E40F1-7093-432D-B919-A7F1B80BCD1F
+URL:www.pakt.nu
+CREATED:20211027T151949Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151949Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211118T130000Z
+DTEND:20211118T170000Z
+DTSTAMP:20221019T153853Z
+UID:44F1BF70-8644-4B83-9151-FC3AA18860AE
+URL:www.pakt.nu
+CREATED:20211027T151948Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151948Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211114T130000Z
+DTEND:20211114T170000Z
+DTSTAMP:20221019T153853Z
+UID:6A207DCD-8B40-43DD-8BE1-E5ED8F61E148
+URL:www.pakt.nu
+CREATED:20210920T142254Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151919Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: ‘I didn’t think it would turn out this way’ by David D
+ale Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211113T190000Z
+DTEND:20211113T230000Z
+DTSTAMP:20221019T153853Z
+UID:855A4ACF-146B-4455-9A4E-5E3EA27F40CF
+URL:www.pakt.nu
+CREATED:20210920T142251Z
+DESCRIPTION:- Am I an Object\, part IV\n'I didn’t think it would turn out t
+his way'\nan exhibition of contemporary artists’ films from Glasgow\norgani
+sed by David Dale Gallery\, Glasgow at P/////AKT (Main space)\n- Tessa Lang
+eveld\, part 2/3 (P/////AKTPOOL)\n- Dan Walwin – Extracts from Like clock (
+P/////AKTSALON) 13 November – 19 December 2021\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20211027T151911Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Opening: ‘I didn’t think it would turn out this way’ by David Dale
+Gallery | Tessa Langeveld part 2/3
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211024T120000Z
+DTEND:20211024T160000Z
+DTSTAMP:20221019T153853Z
+UID:CDD8923D-68B2-4E2D-BB14-A2E8AA7F6B58
+URL:www.pakt.nu
+CREATED:20210809T133950Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210809T133950Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211023T120000Z
+DTEND:20211023T160000Z
+DTSTAMP:20221019T153853Z
+UID:E7089392-858D-4769-BBAC-C3E8DEC076A2
+URL:www.pakt.nu
+CREATED:20210809T133949Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210809T133949Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211022T120000Z
+DTEND:20211022T160000Z
+DTSTAMP:20221019T153853Z
+UID:1F01F7C9-4B33-427F-BF43-758D5C01267F
+URL:www.pakt.nu
+CREATED:20210809T133948Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210809T133948Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211021T120000Z
+DTEND:20211021T160000Z
+DTSTAMP:20221019T153853Z
+UID:D8792A74-C6C2-4B93-AE73-A343D6C4157C
+URL:www.pakt.nu
+CREATED:20210809T133947Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210809T133947Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211017T120000Z
+DTEND:20211017T160000Z
+DTSTAMP:20221019T153853Z
+UID:87292ED3-61EA-4857-A8DB-89E7F5977840
+URL:www.pakt.nu
+CREATED:20210731T123354Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123354Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211016T120000Z
+DTEND:20211016T160000Z
+DTSTAMP:20221019T153853Z
+UID:EC46F815-502C-40B0-8016-1EDC6E55B5C7
+URL:www.pakt.nu
+CREATED:20210731T123353Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123353Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211015T120000Z
+DTEND:20211015T160000Z
+DTSTAMP:20221019T153853Z
+UID:267BA4DF-1C45-424A-881E-B610C90E18F1
+URL:www.pakt.nu
+CREATED:20210731T123352Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123352Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211014T120000Z
+DTEND:20211014T160000Z
+DTSTAMP:20221019T153853Z
+UID:C75B5A44-CC67-4E13-88F0-A174611A4DEA
+URL:www.pakt.nu
+CREATED:20210731T123351Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123351Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211010T120000Z
+DTEND:20211010T160000Z
+DTSTAMP:20221019T153853Z
+UID:B3406F30-198A-4E59-B61B-54A9E549011E
+URL:www.pakt.nu
+CREATED:20210731T123350Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123350Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211009T120000Z
+DTEND:20211009T160000Z
+DTSTAMP:20221019T153853Z
+UID:41B2301E-06AB-476A-A5ED-03B93E41C9A3
+URL:www.pakt.nu
+CREATED:20210731T123350Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123350Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211008T120000Z
+DTEND:20211008T160000Z
+DTSTAMP:20221019T153853Z
+UID:2F504731-5B3C-40F1-8B94-8720B204CCFA
+URL:www.pakt.nu
+CREATED:20210731T123349Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123349Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211007T120000Z
+DTEND:20211007T160000Z
+DTSTAMP:20221019T153853Z
+UID:16FE0280-EC7D-4C8C-9A5D-A087B8010A5E
+URL:www.pakt.nu
+CREATED:20210731T123348Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123348Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211003T120000Z
+DTEND:20211003T160000Z
+DTSTAMP:20221019T153853Z
+UID:DDC378E1-D7B2-421D-BFF2-1EF95AF7D7EF
+URL:www.pakt.nu
+CREATED:20210731T123346Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123346Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211002T120000Z
+DTEND:20211002T160000Z
+DTSTAMP:20221019T153853Z
+UID:ABE2C69F-B39F-48FD-8DEE-CA483A1B4FDF
+URL:www.pakt.nu
+CREATED:20210731T123346Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123346Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211001T120000Z
+DTEND:20211001T160000Z
+DTSTAMP:20221019T153853Z
+UID:FAC8F8B1-4312-4D39-9A8E-814E9C13E8D1
+URL:www.pakt.nu
+CREATED:20210731T123345Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123345Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210930T120000Z
+DTEND:20210930T160000Z
+DTSTAMP:20221019T153853Z
+UID:313F263C-360A-4D0E-AB58-56346CED3D34
+URL:www.pakt.nu
+CREATED:20210731T123344Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123344Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210926T120000Z
+DTEND:20210926T160000Z
+DTSTAMP:20221019T153853Z
+UID:FAD60BDE-D17F-43E2-8C49-863ADA111E4B
+URL:www.pakt.nu
+CREATED:20210731T123343Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123343Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210925T120000Z
+DTEND:20210925T160000Z
+DTSTAMP:20221019T153853Z
+UID:40A6AF1A-326D-41F1-83D2-89AE34F9677A
+URL:www.pakt.nu
+CREATED:20210731T123342Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123342Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210924T120000Z
+DTEND:20210924T160000Z
+DTSTAMP:20221019T153853Z
+UID:A4EAD7F0-3AD6-4ED7-942D-0B81208FAF0D
+URL:www.pakt.nu
+CREATED:20210731T123340Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123340Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210923T120000Z
+DTEND:20210923T160000Z
+DTSTAMP:20221019T153853Z
+UID:8090A221-6244-48C6-9A87-40EC840B7658
+URL:www.pakt.nu
+CREATED:20210731T123340Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123340Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210919T120000Z
+DTEND:20210919T160000Z
+DTSTAMP:20221019T153853Z
+UID:5B863731-AC22-4414-BA41-E5ABFE795C5E
+URL:www.pakt.nu
+CREATED:20210731T123338Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123338Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210918T120000Z
+DTEND:20210918T160000Z
+DTSTAMP:20221019T153853Z
+UID:6BC08451-C795-4F1C-9751-C2991B0A9680
+URL:www.pakt.nu
+CREATED:20210731T123337Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123337Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210917T120000Z
+DTEND:20210917T160000Z
+DTSTAMP:20221019T153853Z
+UID:F67B52B6-561F-4A30-BDA5-0AD476BD1D1F
+URL:www.pakt.nu
+CREATED:20210731T123337Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123337Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210916T120000Z
+DTEND:20210916T160000Z
+DTSTAMP:20221019T153853Z
+UID:4A2C447C-0F5A-40E2-A415-B6D051D16412
+URL:www.pakt.nu
+CREATED:20210731T123336Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123336Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210912T120000Z
+DTEND:20210912T160000Z
+DTSTAMP:20221019T153853Z
+UID:0A90A1D3-781B-4A7B-8B4D-FE8370C7C004
+URL:www.pakt.nu
+CREATED:20210731T123328Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123328Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210911T120000Z
+DTEND:20210911T160000Z
+DTSTAMP:20221019T153853Z
+UID:6390C5E2-3DFF-4EC9-9D4D-C1659B8EB701
+URL:www.pakt.nu
+CREATED:20210731T123144Z
+DESCRIPTION:June Crespo - Am I an Object\, part III (Main space)\nBenjamin
+Francis\, part 2/3 and Tessa Langeveld\, part 1/3 (P/////AKTPOOL)\nThu-Sun\
+, 14-18 hrs
+LAST-MODIFIED:20210731T123325Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: June Crespo | Benjamin Francis and Tessa Langeveld
+TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20210710T140000
+DTEND;TZID=Europe/Amsterdam:20210710T180000
+RRULE:FREQ=WEEKLY;UNTIL=20210815T215959Z;INTERVAL=1;BYDAY=SU,TH,FR,SA
+DTSTAMP:20221019T153853Z
+UID:9DEAA72E-CCD9-478D-87D8-8A858CFEC075
+CREATED:20210614T103707Z
+DESCRIPTION:Nicola Arthen - Am I an Object\, part II (main space)\nBenjamin
+Francis\, part 2/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210614T103707Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Nicola Arthen | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210625T100000Z
+DTEND:20210625T180000Z
+DTSTAMP:20221019T153853Z
+UID:879CC5D9-02DD-4F45-936C-3E21F81CFFF6
+CREATED:20210614T103322Z
+DESCRIPTION:A sneak preview of the solo exhibition of Nicola Arthen (DE\, 1
+990)\, which is planned to open on July 10th. Arthen’s exhibition marks the
+second part of P/////AKT’s exhibition program 'Am I an Object'\, which loo
+sely addresses the dissolving boundaries between the body and the object. A
+s the exhibition approaches\, P/////AKT will host the euphonious ruuurrrump
+of delivery vehicles arriving at the site.\n\nAlso on view:\nP/////AKTPOOL
+– Benjamin Francis: video presentation\n\n
+LAST-MODIFIED:20210614T103352Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Nicola Arthen – Hearing Trucks\, Probably Dreaming Better | audio i
+nstallation
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210509T120000Z
+DTEND:20210509T160000Z
+DTSTAMP:20221019T153853Z
+UID:EE256182-9651-4621-AC31-7C17D423765D
+CREATED:20210308T110606Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110606Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210508T120000Z
+DTEND:20210508T160000Z
+DTSTAMP:20221019T153853Z
+UID:66173FFF-2002-46FD-A0BB-6864A92D212A
+CREATED:20210308T110415Z
+DESCRIPTION:Christine Moldrickx - Am I an Object\, Part I (main space)\nBen
+jamin Francis - Part 1/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110600Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Exhibitions:  Christine Moldrickx | Benjamin Francis
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210411T120000Z
+DTEND:20210411T160000Z
+DTSTAMP:20221019T153853Z
+UID:BC3DDD7E-F107-4084-A234-E60A8EEBD04B
+CREATED:20210224T133939Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110319Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210410T120000Z
+DTEND:20210410T160000Z
+DTSTAMP:20221019T153853Z
+UID:EAA4BA85-B5C7-4BD8-AA88-16250C057162
+CREATED:20210224T133938Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110314Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210404T120000Z
+DTEND:20210404T160000Z
+DTSTAMP:20221019T153853Z
+UID:5262B6E8-A755-4D80-A360-604A001BC907
+CREATED:20210203T115325Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110301Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210403T120000Z
+DTEND:20210403T160000Z
+DTSTAMP:20221019T153853Z
+UID:020FA6B0-CC30-4ACE-878A-3385F0252CA2
+CREATED:20210203T115325Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110256Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210402T120000Z
+DTEND:20210402T160000Z
+DTSTAMP:20221019T153853Z
+UID:D6BAF9BB-BC38-4B00-85A6-9ED65AAC3951
+CREATED:20210203T115324Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110252Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210401T120000Z
+DTEND:20210401T160000Z
+DTSTAMP:20221019T153853Z
+UID:3E5FCC4E-BF67-4C15-BFB5-3BEB103E575C
+CREATED:20210203T115323Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110247Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210328T120000Z
+DTEND:20210328T160000Z
+DTSTAMP:20221019T153853Z
+UID:B9744071-1268-40CC-B828-379C7A95D7A4
+CREATED:20210203T100557Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110242Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210327T130000Z
+DTEND:20210327T170000Z
+DTSTAMP:20221019T153853Z
+UID:F3CBC40E-3C27-4A60-8942-8B574C467D79
+CREATED:20210203T100556Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110237Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210326T130000Z
+DTEND:20210326T170000Z
+DTSTAMP:20221019T153853Z
+UID:99CFCC1D-EF55-48A5-AF95-5CEC08A1347A
+CREATED:20210203T100555Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110233Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210325T130000Z
+DTEND:20210325T170000Z
+DTSTAMP:20221019T153853Z
+UID:2FD7F5B2-A1C4-4C11-8ECC-1FB6D65BE6CA
+CREATED:20210203T100554Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110228Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210321T130000Z
+DTEND:20210321T170000Z
+DTSTAMP:20221019T153853Z
+UID:28EB42CE-DE1C-4D93-B6F1-63F5210E831E
+CREATED:20210203T100551Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110224Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210320T130000Z
+DTEND:20210320T170000Z
+DTSTAMP:20221019T153853Z
+UID:AFCED92A-D8A4-4A60-B7C6-B531F62C3978
+CREATED:20210203T100550Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110220Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210319T130000Z
+DTEND:20210319T170000Z
+DTSTAMP:20221019T153853Z
+UID:D49CF14D-72B8-4D65-8BB0-ADCF4F268A8D
+CREATED:20210203T100549Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110215Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210318T130000Z
+DTEND:20210318T170000Z
+DTSTAMP:20221019T153853Z
+UID:D51D85ED-3295-4B26-9496-789EF5F88506
+CREATED:20210203T100548Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110211Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210314T130000Z
+DTEND:20210314T170000Z
+DTSTAMP:20221019T153853Z
+UID:FAD3CF2E-A040-441F-B905-149E716907CE
+CREATED:20210113T114322Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110206Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210313T130000Z
+DTEND:20210313T170000Z
+DTSTAMP:20221019T153853Z
+UID:3ED29F68-1FD3-4A01-B314-FEE17B895088
+CREATED:20210113T114321Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110201Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210312T130000Z
+DTEND:20210312T170000Z
+DTSTAMP:20221019T153853Z
+UID:39C787E2-26C1-41B7-8EBC-CFAF134B450A
+CREATED:20210113T114320Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110142Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210311T130000Z
+DTEND:20210311T170000Z
+DTSTAMP:20221019T153853Z
+UID:6F4B4B3C-91AB-4A31-A4AA-4425A155F9CC
+CREATED:20210113T114320Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110138Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210409T120000Z
+DTEND:20210409T160000Z
+DTSTAMP:20221019T153853Z
+UID:AEE5C79A-5197-4E8B-93B4-CAEAF84BB5BF
+CREATED:20210224T133938Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110124Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210408T120000Z
+DTEND:20210408T160000Z
+DTSTAMP:20221019T153853Z
+UID:8E421987-3563-4A0A-B7C2-BE9A4441C96D
+CREATED:20210224T133937Z
+DESCRIPTION:Anu Vahtra - The Space Conductors Are Among Us\, Part V (main s
+pace)\nDavid Grønlykke - Part 3/3 (P/////AKTPOOL)\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20210308T110118Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions: Anu Vahtra | David Grønlykke
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Amsterdam:20201107T140000
+DTEND;TZID=Europe/Amsterdam:20201107T180000
+EXDATE;TZID=Europe/Amsterdam:20201107T140000
+EXDATE;TZID=Europe/Amsterdam:20201108T140000
+EXDATE;TZID=Europe/Amsterdam:20201112T140000
+EXDATE;TZID=Europe/Amsterdam:20201113T140000
+EXDATE;TZID=Europe/Amsterdam:20201114T140000
+EXDATE;TZID=Europe/Amsterdam:20201115T140000
+RRULE:FREQ=WEEKLY;WKST=MO;UNTIL=20201213T225959Z;BYDAY=FR,SA,SU,TH
+DTSTAMP:20221019T153853Z
+UID:6ms7878dkllfmc0thtrr41l3f5@google.com
+URL:www.pakt.nu
+CREATED:20201006T085956Z
+DESCRIPTION:Ieva Kraule-Kūna & Elīna Vītola - 'Artist Crisis Center II: Tac
+t Gear' (main space)\nDavid Grønlykke - 'Re: Heat' (P/////AKTPOOL)\nLisa Su
+dhibhasilp – 'No thanks\, I’m just looking' (P/////AKTSALON)\n19 November –
+13 December 2020\nThu-Sun\, 14-18 hrs
+LAST-MODIFIED:20201113T084603Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Exhibitions and presentations: Ieva Kraule-Kūna & Elīna Vītola | Da
+vid Grønlykke | Lisa Sudhibhasilp
+TRANSP:OPAQUE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201011T100000Z
+DTEND:20201011T160000Z
+DTSTAMP:20221019T153853Z
+UID:61ge1h7coojs5e1h39kbq6jlgo@google.com
+CREATED:20201006T085038Z
+DESCRIPTION:<p>As part of the final weekend of&nbsp\;<a href="https://www.p
+akt.nu/2020/stephan-blumenschein-the-space-conductors-are-among-us-part-iii
+/"><em><u>Upon arrival and during our stay\; leaving\, leaving and leaving
+again</u></em></a>&nbsp\;by Stephan Blumenschein\, artist duo&nbsp\;<a href
+="http://manganovanrooy.com/"><u>Domenico Mangano &amp\; Marieke van Rooy</
+u></a>&nbsp\;are presenting the intervention&nbsp\;<em>Long Life Infusion</
+em>. Visitors are welcome to enjoy&nbsp\;it at the exhibition space&nbsp\;o
+n Saturday 10 and Sunday 11 October between 12:00 and 18:00.</p><p>The inte
+rvention is part of the exhibition program&nbsp\;<a href="https://www.pakt.
+nu/2019/the-space-conductors-are-among-us-hey-where-is-my-mind-part-1-2020/
+"><u><em>The Space Conductors Are Among Us</em></u></a>&nbsp\;and it is con
+ceived in collaboration with artist/writer&nbsp\;<a href="https://brendatem
+pelaar.nl/"><u>Brenda Tempelaar</u></a>.</p><p>There’s no need to make a re
+servation for visiting P/////AKT. &nbsp\;However\, we will allow&nbsp\;a ma
+ximum of 15&nbsp\;people inside the space at the same time.&nbsp\;Please&nb
+sp\;make sure to always keep a minimum distance of 1\,5 meters from other v
+isitors and staff.&nbsp\;</p>
+LAST-MODIFIED:20201006T085331Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Long Life Infusion - intervention by Domenico Mangano & Marieke van
+Rooy
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201010T100000Z
+DTEND:20201010T160000Z
+DTSTAMP:20221019T153853Z
+UID:26f4d8900a16fb5d7rvsod50u2@google.com
+CREATED:20201006T085002Z
+DESCRIPTION:<p>As part of the final weekend of&nbsp\;<a href="https://www.p
+akt.nu/2020/stephan-blumenschein-the-space-conductors-are-among-us-part-iii
+/"><em><u>Upon arrival and during our stay\; leaving\, leaving and leaving
+again</u></em></a>&nbsp\;by Stephan Blumenschein\, artist duo&nbsp\;<a href
+="http://manganovanrooy.com/"><u>Domenico Mangano &amp\; Marieke van Rooy</
+u></a>&nbsp\;are presenting the intervention&nbsp\;<em>Long Life Infusion</
+em>. Visitors are welcome to enjoy&nbsp\;it at the exhibition space&nbsp\;o
+n Saturday 10 and Sunday 11 October between 12:00 and 18:00.</p><p>The inte
+rvention is part of the exhibition program&nbsp\;<a href="https://www.pakt.
+nu/2019/the-space-conductors-are-among-us-hey-where-is-my-mind-part-1-2020/
+"><u><em>The Space Conductors Are Among Us</em></u></a>&nbsp\;and it is con
+ceived in collaboration with artist/writer&nbsp\;<a href="https://brendatem
+pelaar.nl/"><u>Brenda Tempelaar</u></a>.</p><p>There’s no need to make a re
+servation for visiting P/////AKT. &nbsp\;However\, we will allow&nbsp\;a ma
+ximum of 15&nbsp\;people inside the space at the same time.&nbsp\;Please&nb
+sp\;make sure to always keep a minimum distance of 1\,5 meters from other v
+isitors and staff.&nbsp\;</p>
+LAST-MODIFIED:20201006T085323Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Long Life Infusion - intervention by Domenico Mangano & Marieke van
+Rooy
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201011T100000Z
+DTEND:20201011T160000Z
+DTSTAMP:20221019T153853Z
+UID:6l821ljebbjc4a885cvr55ar8b@google.com
+CREATED:20201006T085250Z
+DESCRIPTION:<p>P/////AKT is participating in <a href="https://www.artoost.a
+msterdam/" target="_blank">Art Oost Festival</a> with the following exhibit
+ions and presentations:</p><ul><li><a href="https://www.pakt.nu/2020/stepha
+n-blumenschein-the-space-conductors-are-among-us-part-iii/" target="_blank"
+>Stephan Blumenschein – <em>Upon arrival and during our stay\; leaving\, le
+aving and leaving again</em> (main space)</a></li><li><a href="https://www.
+pakt.nu/2020/laura-hogeweg-part-3-3-and-david-gronlykke-part-1-3/" target="
+_blank">Laura Hogeweg &amp\; David Grønlykke – <em>3rd/Decoy Salad</em> (P/
+////AKTPOOL)</a></li><li><a href="https://www.pakt.nu/2020/paul-geelen-unti
+tled-wingman/" target="_blank">Paul Geelen – <em>Untitled (wingman)</em> (P
+/////AKTSALON)</a></li><li><a href="https://www.pakt.nu/2020/museum-of-almo
+st-autonomous-unlocked-reconnected/" target="_blank">Museum of… – <em>Almos
+t Autonomous</em> (P/////AKT’s façade)</a></li></ul><p>More information on 
+<a href="https://www.artoost.amsterdam/" target="_blank">www.artoost.amster
+dam</a></p>
+LAST-MODIFIED:20201006T085250Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:P/////AKT x Art Oost Festival
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201010T100000Z
+DTEND:20201010T160000Z
+DTSTAMP:20221019T153853Z
+UID:2da8l6rjf7c0hj7fjc1fijpjil@google.com
+CREATED:20201006T085240Z
+DESCRIPTION:<p>P/////AKT is participating in <a href="https://www.artoost.a
+msterdam/" target="_blank">Art Oost Festival</a> with the following exhibit
+ions and presentations:</p><ul><li><a href="https://www.pakt.nu/2020/stepha
+n-blumenschein-the-space-conductors-are-among-us-part-iii/" target="_blank"
+>Stephan Blumenschein – <em>Upon arrival and during our stay\; leaving\, le
+aving and leaving again</em> (main space)</a></li><li><a href="https://www.
+pakt.nu/2020/laura-hogeweg-part-3-3-and-david-gronlykke-part-1-3/" target="
+_blank">Laura Hogeweg &amp\; David Grønlykke – <em>3rd/Decoy Salad</em> (P/
+////AKTPOOL)</a></li><li><a href="https://www.pakt.nu/2020/paul-geelen-unti
+tled-wingman/" target="_blank">Paul Geelen – <em>Untitled (wingman)</em> (P
+/////AKTSALON)</a></li><li><a href="https://www.pakt.nu/2020/museum-of-almo
+st-autonomous-unlocked-reconnected/" target="_blank">Museum of… – <em>Almos
+t Autonomous</em> (P/////AKT’s façade)</a></li></ul><p>More information on 
+<a href="https://www.artoost.amsterdam/" target="_blank">www.artoost.amster
+dam</a></p>
+LAST-MODIFIED:20201006T085240Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:P/////AKT x Art Oost Festival
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201009T100000Z
+DTEND:20201009T160000Z
+DTSTAMP:20221019T153853Z
+UID:57cqb4d1ph5f9r0v00icevrps6@google.com
+CREATED:20201006T085219Z
+DESCRIPTION:<p>P/////AKT is participating in&nbsp\;<a href="https://www.art
+oost.amsterdam/">Art Oost Festival</a>&nbsp\;with the following exhibitions
+and presentations:</p><ul><li><a href="https://www.pakt.nu/2020/stephan-bl
+umenschein-the-space-conductors-are-among-us-part-iii/">Stephan Blumenschei
+n –&nbsp\;<em>Upon arrival and during our stay\; leaving\, leaving and leav
+ing again</em>&nbsp\;(main space)</a></li><li><a href="https://www.pakt.nu/
+2020/laura-hogeweg-part-3-3-and-david-gronlykke-part-1-3/">Laura Hogeweg &a
+mp\; David Grønlykke –&nbsp\;<em>3rd/Decoy Salad</em>&nbsp\;(P/////AKTPOOL)
+</a></li><li><a href="https://www.pakt.nu/2020/paul-geelen-untitled-wingman
+/">Paul Geelen –&nbsp\;<em>Untitled (wingman)</em>&nbsp\;(P/////AKTSALON)</
+a></li><li><a href="https://www.pakt.nu/2020/museum-of-almost-autonomous-un
+locked-reconnected/">Museum of… –&nbsp\;<em>Almost Autonomous</em>&nbsp\;(P
+/////AKT’s façade)</a></li></ul><p>More information on&nbsp\;<a href="https
+://www.artoost.amsterdam/">www.artoost.amsterdam</a></p>
+LAST-MODIFIED:20201006T085219Z
+LOCATION:P/////AKT\, Zeeburgerpad 53\, 1019 AB Amsterdam\, Netherlands
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:P/////AKT x Art Oost Festival
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200829T140000Z
+DTEND:20200829T220000Z
+DTSTAMP:20221019T153854Z
+UID:o8uafn29ia89onr4puinse8kag@google.com
+CREATED:20200625T113748Z
+DESCRIPTION:\n{{{{{{{{{{{{{{{{ An entire night of Happy Hours with cheap an
+d juicy at the bar. }}}}}}}}}}}}}}}}}}}}}\nForever cocktails\, little shots
+\, cold beer _ music performed with Noise Diva. \n \n\nDrink and be merry b
+ecause tomorrow...
+LAST-MODIFIED:20200827T201703Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:Once a month : Happy Hour
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200828T180000Z
+DTEND:20200828T210000Z
+DTSTAMP:20221019T153854Z
+UID:0ejhcnopc8mb1ivto210bncpjq@google.com
+CREATED:20200818T095410Z
+DESCRIPTION:chill tunes
+LAST-MODIFIED:20200818T102854Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DJ mchgst
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200827T180000Z
+DTEND:20200827T210000Z
+DTSTAMP:20221019T153854Z
+UID:4k6gd2sa6i4jf4m4ahs12t06g7@google.com
+CREATED:20200818T095346Z
+DESCRIPTION:jazzsoulpostpunkjazzsoulpostpunkjazzsoulpostpunkjazzsoulpostpun
+kjazzsoulpostpunk
+LAST-MODIFIED:20200818T102213Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:DJ Pastimes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200814T190000Z
+DTEND:20200814T220000Z
+DTSTAMP:20221019T153854Z
+UID:480ar2n9mhd0db9rc3h60tegvb@google.com
+CREATED:20200811T075106Z
+DESCRIPTION:Alternative 90s
+LAST-MODIFIED:20200812T082213Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:DJ Ali - late night in Tears
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200815T140000Z
+DTEND:20200815T220000Z
+DTSTAMP:20221019T153854Z
+UID:3peaovq20p85ookapg7d1aqv6l@google.com
+CREATED:20200714T121411Z
+DESCRIPTION:Hocus Bogus Publishing invites zinesters\, collage collaborator
+s and smudgy fingers to comecelebrate with us our 5 year anniversary. There
+will also be a zine launch of a new beautiful zine titled"Tragic Tears & L
+icorice Lips"\, which you can browse/buy while enjoying a nice handcrafted
+beer.Karaoke fun and hand sanitizer is included\, and so are fake tattoos!
+LAST-MODIFIED:20200812T082133Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HOCUS BOGUS ZINE RELEASE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200820T180000Z
+DTEND:20200820T210000Z
+DTSTAMP:20221019T153854Z
+UID:2543radf9c8nrut41t8plgc37u@google.com
+CREATED:20200710T190201Z
+DESCRIPTION:Screech\, thump\, bzzz\, whackawhacka. Symphonies of disillusio
+n.
+LAST-MODIFIED:20200811T075416Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ODD - DJ Steve
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200826T170000Z
+DTEND:20200826T190000Z
+DTSTAMP:20221019T153854Z
+UID:4f65gff31sroco1gsaotg1s9vl@google.com
+CREATED:20200628T173817Z
+DESCRIPTION:\n\n"Time-travelling through parallel beer cultures"\nA beer ta
+sting with Butchers Tears brewery and beer writer Marco Daane\n\nTEARS - ja
+n van galenstraat 10\nWednesday 26th of August 2020\n19:00-21:00\n€30 p.p.
+\n\nThis tasting is all about the flavours of beers and the stories behind
+them. You might enjoy a beer even more if you know a bit about those rich s
+tories. Moreover\, Butcher’s Tears is dedicated to brewing traditions and r
+eviving them in a modern way. So you’ll taste and hear both the ‘how’ and t
+he ‘why’.\n\nWe’ll explore beers from some of the most important brewing cu
+ltures\, the British and the Czech\, but also from our very own Dutch groun
+ds. That makes for an interesting tasting with some quite rare beers.  \n\n
+What to think of princessebier for instance? You will know about IPA\, a pr
+oduct of the English 18th century drive to bring beer by ship to the Asian
+colonies. But Holland had something very akin\; and even earlier! Beer writ
+er Marco Daane will tell you about these fascinating beers and their trades
+. And you will taste Butcher’s Tears‘ take on Dutch princessebier and its I
+PA that mirrors the old English India pale ales.\n\nBeautiful as these beer
+s were\, they vanished completely or almost completely. Lager beers from Ba
+varia and Bohemia took over the beer drinkers world in the 19th century. No
+wadays\, they’ve evolved to bland industrial mass products. They make it ha
+rdly imaginable that lagers once became preferred to those lovely pale ales
+. Quite rightly so: these are nowhere near the beers of those early lager d
+ays. If you’ve tasted a proper pilsner\, you will understand better why the
+y won the game. Butcher’s Tears will show you.\n\nBut not all ales were dri
+ven away by lagers. Some IPA’s survived and in the British countries much o
+f the daily drinking was and is a matter of pale\, bitter or mild ales. Jus
+t enter some pub over there to find out. Or better\, join our tasting for a
+glimpse. Together we’ll try to find out what it is like to drink either la
+gers or ales. How come these habits differ from country to country? And wha
+t do you prefer?
+LAST-MODIFIED:20200714T121609Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Beer tasting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200723T170000Z
+DTEND:20200723T210000Z
+DTSTAMP:20221019T153854Z
+UID:7rv2rosmemmqomb8v84oaq3n42@google.com
+CREATED:20200714T121303Z
+DESCRIPTION:
+LAST-MODIFIED:20200714T121303Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ODD with DJ Steve
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200717T170000Z
+DTEND:20200717T220000Z
+DTSTAMP:20221019T153854Z
+UID:0a5se1uvf43iq3netbr2rq2tte@google.com
+CREATED:20200714T121222Z
+DESCRIPTION:\nJoin us this Friday at TEARS for a cocktail-experiment night\
+, testing the summer menu. \nA little this and that for €6\,50 a pop\, chea
+p and cheerful. \nstarting at 7pm\, alongside DJ neverwenttoartschool \n\n-
+everyone is welcome -\n🙂
+LAST-MODIFIED:20200714T121222Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:COCKTAIL EXPERIMENT
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200926T140000Z
+DTEND:20200927T000000Z
+DTSTAMP:20221019T153854Z
+UID:b9h5csq0st8s9kdc8f863o91qc@google.com
+CREATED:20200625T113803Z
+DESCRIPTION:
+LAST-MODIFIED:20200625T132212Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Happy hour 🎂
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200703T170000Z
+DTEND:20200703T220000Z
+DTSTAMP:20221019T153854Z
+UID:0ubqbk2shhr3nic65l5rbvh3mc@google.com
+CREATED:20200625T131749Z
+DESCRIPTION:DJ session from 19:00 -
+LAST-MODIFIED:20200625T131749Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:D.J. H.O.D. B2B w Husband Material
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200702T180000Z
+DTEND:20200702T200000Z
+DTSTAMP:20221019T153854Z
+UID:65qsp82r9otrervr5o229i4f2r@google.com
+CREATED:20200625T131633Z
+DESCRIPTION:For our second broadcast session we asked DJ Yukari to come pla
+y some records at the bar. If you're reading this from abroad or feeling li
+ke staying in\, &nbsp\;type this: odd666tv&nbsp\;<br><h2><br></h2>
+LAST-MODIFIED:20200625T131633Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:odd666tv #2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200619T130000Z
+DTEND:20200619T190000Z
+DTSTAMP:20221019T153854Z
+UID:7s61ajou3clim6m8s5tl5onbun@google.com
+CREATED:20200617T091422Z
+DESCRIPTION:
+LAST-MODIFIED:20200617T182233Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:BASH - unfiltered pils party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200618T160000Z
+DTEND:20200618T190000Z
+DTSTAMP:20221019T153854Z
+UID:6ts2cqb7krej86337hntud3s3c@google.com
+CREATED:20200616T182317Z
+DESCRIPTION:<br>6 Odd Ones At Home: Transmission 1<br>18hr -21hr&nbsp\;<br>
+This Thursday DJ 76tears will broadcast from the comfort of his grandma's h
+ouse\, pulling records from the racks as he goes.&nbsp\; Over the course of
+the broadcast he'll guzzle his way through 6 BT beers and make choices bas
+ed on the tastes and aromas experienced while progressing through each brew
+.&nbsp\; Who knows\, maybe he'll only drink 3 and pass out... or\, maybe he
+'ll be calling the beer taxi and drinking canned canal water by the end of
+it all. We'll have to wait and see.&nbsp\;&nbsp\;<br><br>Tune in\, it might
+be bollocks.<br><a href="https://www.twitch.tv/odd666tv" id="ow579" __is_o
+wner="true">https://www.twitch.tv/odd666tv</a><br><br>Some recent mixes und
+er other names:<br><a href="https://soundcloud.com/darkdelight/poppa-winos-
+garden-centre-classics-vol1-hosepipe-bangers">https://soundcloud.com/<wbr>d
+arkdelight/poppa-winos-<wbr>garden-centre-classics-vol1-<wbr>hosepipe-bange
+rs</a><br><a href="https://www.mixcloud.com/RedLightRadio/mork-cremlins-ra-
+no-label-for-aardvarcks-monkey-formula-release-rlr-ams-shop-26-09-2019/">ht
+tps://www.mixcloud.com/<wbr>RedLightRadio/mork-cremlins-<wbr>ra-no-label-fo
+r-aardvarcks-<wbr>monkey-formula-release-rlr-<wbr>ams-shop-26-09-2019/</a>&
+nbsp\;
+LAST-MODIFIED:20200617T182219Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Odd broadcast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210329T220000Z
+DTEND:20210418T060000Z
+DTSTAMP:20221019T153854Z
+UID:1j3hfuntadvel4ehkt8ff6729m@google.com
+CREATED:20210405T164140Z
+DESCRIPTION:
+LAST-MODIFIED:20210405T164345Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Hot Topic by Kent Chan
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
