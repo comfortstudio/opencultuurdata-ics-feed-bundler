@@ -3,6 +3,7 @@ Quick MacGyvered script to combine ICS feeds in preparation of the Open Cultuurd
 
 
 ========================================================================
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
@@ -27,4 +28,5 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>
+
 ========================================================================
