@@ -58,6 +58,7 @@
             $ics_content = $this->fetch_url( $url );
 
             if ( ! empty( $ics_content ) ) {
+
                $ics_lines = explode( "\n", $ics_content );
 
                foreach ( $ics_lines as $line ) {
