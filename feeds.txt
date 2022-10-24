@@ -22,3 +22,4 @@ https://calendar.google.com/calendar/ical/aho0gqgfqom21sm0h5agb8k4ic@group.calen
 https://varia.zone/events.ics
 https://foursistersproject.nl/ics
 https://extraintra.nl/ics/public
+https://tetem.apps.comfortstud.io/agenda/tetem.ics
