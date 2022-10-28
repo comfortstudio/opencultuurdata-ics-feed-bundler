@@ -1,5 +1,6 @@
 {
     "require": {
-        "johngrogg/ics-parser": "^3.2"
+        "johngrogg/ics-parser": "^3.2",
+        "league/climate": "^3.8"
     }
 }

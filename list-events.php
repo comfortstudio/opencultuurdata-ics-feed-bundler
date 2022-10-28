@@ -7,13 +7,18 @@ require_once 'vendor/autoload.php';
 use ICal\ICal;
 
 try {
-   $ical = new ICal('output.ics', array(
+
+   $ics_file = 'output.ics';
+   // $ics_file = 'tetem.ics';
+   // $ics_file = 'https://framerframed.nl/?feed=ical';
+
+   $ical = new ICal($ics_file, array(
       'defaultSpan'                 => 2,     // Default value
       'defaultTimeZone'             => 'CET',
       'defaultWeekStart'            => 'MO',  // Default value
       'disableCharacterReplacement' => false, // Default value
-      'filterDaysAfter'             => 60,  // Default value
-      'filterDaysBefore'            => 60,  // Default value
+      'filterDaysAfter'             => null,  // Default value
+      'filterDaysBefore'            => null,  // Default value
       'httpUserAgent'               => null,  // Default value
       'skipRecurrence'              => false, // Default value
    ));
